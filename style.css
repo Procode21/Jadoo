@@ -1,0 +1,398 @@
+body{
+    padding: 0%;
+    margin: 0%;
+   
+   
+}
+
+
+#h{
+    padding : 2%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 3em;
+    position:sticky;
+    top: 3%;
+}
+.on{
+    opacity: 80%;
+    color: rgb(20, 2, 2);
+    
+    top: 3%;
+}
+#signup{
+    height :50px;
+    color: rgb(20, 2, 2);   
+    background-color: antiquewhite;
+    border: solid black ;
+}
+h1{
+    color: black;
+}
+select{
+    height :15px;
+
+}
+#p{
+    color:rgb(134, 39, 4) ;
+    font: 4em sans-serif;
+    
+    font-style: goudy old style;
+    font-weight: 500;
+    position: relative;
+    left: 10%;
+    
+}
+#huh{
+color: rgb(3, 3, 50);
+font: 10em sans-serif;
+position: relative;
+    left: 10%;
+    padding: 0;
+    margin: 0;
+}
+#line{
+    opacity: 50%;
+    font-size:3em ;
+    position: relative;
+    left: 10%;
+    padding: 0;
+    margin: 0;
+}
+#hero{
+
+size: 600%;
+position: absolute;
+right: 0%;
+top: 10%;
+width: 1200px;
+right: 5%;
+}#find{
+    position: relative;
+    left: 10%;
+    color: white;
+    background-color:rgb(219, 129, 12);
+    border-radius: 20%;
+    padding: 2rem;
+    font-size: 2em;
+
+    
+
+}
+
+#demo{
+    font-size:2em ;
+    padding: 2rem;
+    position: relative;
+    left: 20%;
+    border: none;
+   opacity: 50%;
+   background-color: white;
+}
+#logo{
+    opacity: 0;
+    width: 90px;
+}
+#category{
+   
+   color:darkslategray;
+   font-size: 3rem;
+   padding: 0;
+   align-self: center;
+   margin: 0;
+}
+#hey{
+margin: 600px;
+margin-bottom: 100px;
+
+   padding: 0;
+ 
+   align-items: center;
+}
+#offers{
+font-size: 10rem;
+align-self: center;
+padding: 0;
+margin: 0;
+}
+.c1{
+    color: black;
+    font-weight: 500;
+    font-size: 50px;
+    font: bold;
+}
+#table
+{
+    position: relative;
+    left: 5%;
+    background-color: white;
+    padding-right: 5%;
+}
+#btn{
+    background-color: white;
+    border-radius: 10%;
+    border: none;
+    size: 200%;
+    margin: 40px;
+    padding: 40px;
+}
+.c2{
+    font-size: 50px;
+    color: darkgray;
+}
+#i{
+    width: 200px;
+}
+#space{
+margin: 200px;
+}
+#place{
+    width: 500px;
+    height: 500px;
+}
+
+
+#desti{
+    font-size: 8em;
+    font: bold;
+    padding: 0;
+    margin : 0;
+    position: relative;
+    left :30%;
+
+}
+#bes{
+    font-size: 3rem;
+    color: grey;
+    padding: 0;
+    margin : 0;
+    justify-content: center;
+    align-self: center;
+    position: relative;
+    left :40%;
+}
+#rome{
+    width: 400px;
+    height: 400px;
+    justify-content: space-evenly;
+   border-radius: 20%;
+
+
+    
+}
+.ro{  
+   
+    width: 600px;
+    display: inline-block;
+    margin: 80px;
+    font-size: 3em;
+    background-color: antiquewhite;
+    border-radius: 20%;
+    padding: 10px;
+    margin-top: 20px;
+    
+    
+}
+#big{
+    
+    width: 3000px;
+    justify-content: space-between;
+    }
+    #easy{
+       color: darkgrey;
+       font-size: 3em;
+       font: bold;
+       padding: 0;
+        margin: 0;
+       
+    }
+    #fast{
+        position: relative;
+        left: 10%;
+        padding: 0;
+        margin: 0;
+        
+    }
+    #booktrip{
+        font-size: 8em;
+        font: bold;
+        padding: 0;
+        margin: 0;
+    }
+    #yellow{
+        width: 100px;
+        height: 100px;
+        border-radius: 20%;
+        background-color: rgb(255, 162, 0);
+        position: relative;
+        right: 15%;
+    }
+    #blue{ width: 100px;
+        height: 100px;
+        border-radius: 20%;
+        background-color: rgb(212, 53, 4);
+        position: relative;
+        right: 15%;
+
+    }
+    #orange{
+        width: 100px;
+        height: 100px;
+        border-radius: 20%;
+        background-color: rgb(2, 46, 73);
+        position: relative;
+        right: 15%;
+        top: 50%;
+    }
+    .ho{
+        font-size: 2em;
+        color: rgb(0, 0, 70);
+        font: bold;
+        font-weight: bolder;
+        padding: 0;
+        margin: 0;
+    }
+    .hi{
+        font-size: 3em;
+        color: rgb(2, 2, 67); 
+        padding: 0;
+        margin: 0;
+    }
+    .para{
+        display: inline-flex;
+    }
+    #book{
+        border-radius: 20%;
+       width: 400px;
+    }
+    #bada{
+        display: inline;
+        display: flex;
+    }
+    #au{
+        position: relative;
+        left: 600px;
+        background-color: beige;
+        border-radius: 20%;
+        padding: 2%;
+    
+     
+    }
+    .c3{
+            font-size: 2.5em;
+            color: rgb(2, 2, 53);
+    }#bada{
+        margin-top: 300px;
+        margin-bottom: 500px;
+    }
+    #lo{
+        justify-content: flex;
+        justify-content: space-around;
+        display: inline;
+       
+    }
+    .li{justify-content: flex;
+        display: inline;
+        
+        margin: 150px;
+        width: 400px;
+
+    }
+    .axon{
+        width: 200px;}
+    #box{
+           
+            width:2000px;
+            background-color: rgb(230, 226, 239);
+            border-radius: 10%;
+            align-self: center;
+            position: relative;
+            left: 10%;
+            padding: 250px;
+    }
+    
+   
+    .content{
+        display: inline;
+        justify-content: flex;
+        justify-content: space-around;
+        padding: 100px;
+        margin: 100px;
+        position: relative;
+        left: 20%;
+     
+     
+     
+     
+        font-size: 4rem;
+    }
+
+
+    
+    #container{
+        justify-content: flex;
+        justify-content: space-around;
+    }
+    #subs{
+        font-size: 5em;
+        font: bold;
+        position: relative;
+        left: 10%;
+        margin: 2px;
+    }
+    #Subscribe{
+        padding: 30px;
+        background-color: rgba(211, 93, 50, 0.717);
+        border-radius: 10%;
+        color: white;
+        position: relative;left: 20%;
+        margin: 40px;
+
+    }
+    #mail{
+            width: 600px;
+        height: 100px;
+        background-color: white;
+        border: none;
+        border-radius: 10%;
+        position: relative;left: 20%;
+        margin: 40px;
+        
+    }
+    #book{
+        width: 800px;
+    }
+    #in{
+        width: 80px;
+    }
+    #paris{
+        position: relative;
+        left: 20%;
+        background-color: azure;
+        padding: 50px;
+        border-radius: 10%;}
+        .ccm{
+            font-size: 5rem;
+            font: bolder;
+            padding :20px;
+            margin : 20px;
+
+        }
+#footer{
+   
+    font-size: 4rem;
+    color: darkslategrey;
+    position: relative;
+    left: 30%;
+}
+.ccm{
+    padding: 30px;
+    margin: 30px;
+    color: black;
+    font: bolder;
+}
+#about{
+    padding: 30px;
+    margin: 30px;
+    color: rgb(14, 168, 168);
+}
